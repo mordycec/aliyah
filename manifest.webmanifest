@@ -1,0 +1,16 @@
+{
+  "name": "Aliyah",
+  "short_name": "Aliyah",
+  "description": "A card game for two. Five roads lead up to five cities in Eretz Yisrael.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E4D9C3",
+  "theme_color": "#1F3B70",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
